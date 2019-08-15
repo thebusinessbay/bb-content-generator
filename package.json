@@ -1,0 +1,27 @@
+{
+  "name": "bb-content-generator",
+  "version": "1.0.0",
+  "description": "A simple image generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "content",
+    "media",
+    "images",
+    "banner",
+    "products"
+  ],
+  "author": "William De la Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "canvas": "^1.6.0",
+    "image-data-uri": "^2.0.1",
+    "images": "^3.0.2",
+    "merge-images": "^1.1.0",
+    "sharp": "^0.23.0"
+  }
+}
