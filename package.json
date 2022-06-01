@@ -22,6 +22,6 @@
     "image-data-uri": "^2.0.1",
     "images": "^3.0.2",
     "merge-images": "^1.1.0",
-    "sharp": "^0.23.0"
+    "sharp": "^0.30.5"
   }
 }
